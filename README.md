@@ -6,3 +6,4 @@
 * 午夜商店
 * 特狗影视
 * 某奇影视
+* AGE动漫 [下载网址](https://www.agemys.net)   [备用网址1](www.age.tv)
