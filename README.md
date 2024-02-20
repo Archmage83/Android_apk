@@ -20,4 +20,5 @@
 * 淘淘小说
 * 特效变声器
 * 小猪电玩 v2.0.7
+* 小鸭影音 [官网链接](https://duck3.top/?utm_source=wechat&utm_medium=gzh10&channel=gzh10)
 * 布蕾影视 v1.1.6
