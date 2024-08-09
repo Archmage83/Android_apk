@@ -26,3 +26,9 @@
 * 搜盘器_1.2.4_VIP版  
 * 瓜子影视 v1.9.2 $\color{red}{需要翻墙}$
 * 网易云音乐 vip版 [网盘链接下载](https://pan.quark.cn/s/54d176a53c20)
+
+
+## 点赞历史
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Archmage83/Android_apk&type=Date)](https://star-history.com/#Archmage83/Android_apk&Date)
+<br><br>
