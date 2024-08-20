@@ -21,7 +21,7 @@
 * 特效变声器
 * 小猪电玩 v2.0.7
 * 小鸭影音 [官网链接下载](https://duck3.top/?utm_source=wechat&utm_medium=gzh10&channel=gzh10)
-* 布蕾影视 v1.1.6
 * 佩奇影视 [官网链接下载](https://peiqi.tv/)
 * 搜盘器_1.2.4_VIP版  
 * 瓜子影视 v1.9.2 
+* 布蕾4k
