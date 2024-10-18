@@ -2,7 +2,7 @@
 手机安卓手机端电影软件，希望大家一起维护。
 ***如有失效的apk，请大家及时反馈***
 
-* 午夜商店
+* 午夜商店 $\color{red}{需要翻墙}$
 * 特狗影视 [官网链接](https://www.tegoudy.com)
 * 新资源全能王
 * AGE动漫 [下载网址](https://www.agemys.net)   [备用网址1](www.age.tv)
