@@ -23,7 +23,7 @@
 * 小鸭影音 [官网链接下载](https://duck3.top/?utm_source=wechat&utm_medium=gzh10&channel=gzh10)
 * 佩奇影视 [官网链接下载](https://peiqi.tv/)
 * 搜盘器_1.2.4_VIP版  
-* 瓜子影视 v1.9.2 $\color{red}{需要翻墙}$
+* 瓜子影视 [官网链接下载](https://gz.app/)
 * 网易云音乐 vip版 [网盘链接下载](https://pan.quark.cn/s/54d176a53c20)
 * 布蕾4k
 * 融乐Music_1.1.3
