@@ -8,7 +8,6 @@
 * AGE动漫 [下载网址](https://www.agemys.net)   [备用网址1](www.age.tv)
 * 龙门影视
 * 追剧达人 v2.2
-* 大师兄影视  v3.3.3
 * 资源助手
 * 小书亭(免费看小说软件，使用第3天开启隐藏福利)
 * 比赛直播(观看球赛的app[前往下载地址](http://bszb000000.com/download))
@@ -37,6 +36,7 @@
 * Android手机游戏合集 [夸克网盘链接](https://pan.quark.cn/s/31ee4e361bf0)
 * 王者荣耀单机版全皮肤 [迅雷云盘链接](https://pan.xunlei.com/s/VOHQfXGSg3Vwti-fW9r6mhwyA1?pwd=28yb)
 * 网飞猫
+* 新大师兄影视  v3.3.8
   
 
 ## 点赞历史
