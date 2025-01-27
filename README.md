@@ -29,12 +29,12 @@
 * 省心英语 v4.0.5 学习英语
 * 喵趣漫画
 * 蓝莓音乐
-* 剧荒 v1.0.0.4 看影视剧 [剧荒官网链接](https://juhuang.cc/)
 * 小嘿 v1.0 看影视剧 
 * Android手机游戏合集 [夸克网盘链接](https://pan.quark.cn/s/31ee4e361bf0)
 * 王者荣耀单机版全皮肤 [迅雷云盘链接](https://pan.xunlei.com/s/VOHQfXGSg3Vwti-fW9r6mhwyA1?pwd=28yb)
 * 网飞猫
 * 新大师兄影视  v3.3.8
+* 剧荒 v1.05 看影视剧 [剧荒官网链接](https://juhuang.cc/)
   
 
 ## 点赞历史
