@@ -6,7 +6,6 @@
 * 特狗影视 [官网链接](https://www.tegoudy.com)
 * 新资源全能王
 * AGE动漫 [下载网址](https://www.agemys.net)   [备用网址1](www.age.tv)
-* 龙门影视
 * 资源助手
 * 小书亭(免费看小说软件，使用第3天开启隐藏福利)
 * 比赛直播(观看球赛的app[前往下载地址](http://bszb000000.com/download))
