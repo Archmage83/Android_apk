@@ -2,7 +2,6 @@
 手机安卓手机端电影软件，希望大家一起维护。
 ***如有失效的apk，请大家及时反馈***
 
-* 午夜商店 $\color{red}{需要翻墙}$
 * 特狗影视 [官网链接](https://www.tegoudy.com)
 * 新资源全能王
 * AGE动漫 [下载网址](https://www.agemys.net)   [备用网址1](www.age.tv)
@@ -22,7 +21,7 @@
 * 网易云音乐 vip版 [网盘链接下载](https://pan.quark.cn/s/54d176a53c20)
 * 布蕾4k
 * 融乐Music_1.1.3
-* 草莓视频
+* 草莓视频  [官网链接](https://cm.dlyllwl.cn/left_arrow.png)
 * 香蕉视频
 * 省心英语 v4.0.5 学习英语
 * 喵趣漫画
