@@ -39,6 +39,7 @@
 * 笔趣阁红色版 v1.2.0
 * 特狗TV  [官网地址下载](http://tegouapp.vip/)
 * 黑白弹幕  看动画片
+* 影视基地 [github链接下载](https://github.com/azgzlo/palavideo)
 
   
 
