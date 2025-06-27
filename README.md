@@ -8,6 +8,7 @@
 * 资源助手
 * 小书亭(免费看小说软件，使用第3天开启隐藏福利)
 * 比赛直播(观看球赛的app[前往下载地址](http://bszb000000.com/download))
+* 玩球直播[官网地址](https://wqzb695.com/)
 * 七猫免费小说 v7.14 (免费看小说软件)
 * 扫描全能王OCR v2.2.5
 * 起名大师
@@ -38,6 +39,7 @@
 * 笔趣阁红色版 v1.2.0
 * 特狗TV  [官网地址下载](http://tegouapp.vip/)
 * 黑白弹幕  看动画片
+* 影视基地 [github链接下载](https://github.com/azgzlo/palavideo)
 
   
 
