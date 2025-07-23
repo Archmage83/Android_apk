@@ -40,6 +40,7 @@
 * 特狗TV  [官网地址下载](http://tegouapp.vip/)
 * 黑白弹幕  看动画片
 * 影视基地 [github链接下载](https://github.com/azgzlo/palavideo)
+* 得间小说 VIP版4.8.6.1
 
   
 
