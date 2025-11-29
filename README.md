@@ -36,11 +36,11 @@
 * 考霸题库  v1.7.4刷题软件 [123网盘链接](https://www.123865.com/s/TGO8Vv-FV0RA)
 * 红枫影评 
 * 云漫 v2.5.4 看漫画
-* 笔趣阁红色版 v1.2.0
 * 特狗TV  [官网地址下载](http://tegouapp.vip/)
 * 黑白弹幕  看动画片
 * 影视基地 [github链接下载](https://github.com/azgzlo/palavideo)
 * 得间小说 VIP版4.8.6.1
+* 笔趣阁红色版 v1.2.0
 
   
 
