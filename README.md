@@ -41,6 +41,7 @@
 * 影视基地 [github链接下载](https://github.com/azgzlo/palavideo)
 * 得间小说 VIP版4.8.6.1
 * 笔趣阁红色版 v1.2.0
+* 51吃瓜
 
   
 
