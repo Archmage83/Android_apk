@@ -20,7 +20,6 @@
 * 搜盘器_1.2.4_VIP版  
 * 瓜子影视 [官网链接下载](https://gz.app/)
 * 网易云音乐 vip版 [网盘链接下载](https://pan.quark.cn/s/54d176a53c20)
-* 布蕾4k
 * 融乐Music_1.1.3
 * 草莓视频  [官网链接](https://cm.dlyllwl.cn/left_arrow.png) **$\color{red}{需要翻墙}$**
 * 香蕉视频
